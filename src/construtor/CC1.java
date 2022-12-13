@@ -13,13 +13,16 @@ public class CC1
 {
 	int a;
 	int b;
-	
-
 	public CC1()// WITH ZERO PARAMETER 
 	{
 		a=50;
 		b=30;	
 	}
+	
+	
+	
+	
+	
 	
     public CC1(int num1)// WITH SINGLE PARAMETER 
 	{
@@ -31,8 +34,11 @@ public class CC1
 		a=num1;
 		b=num2;
 	}         
-         
-        
+       
+    
+    
+    
+    
 	public static void main(String[] args) 
 	
 	{
